@@ -1,0 +1,13 @@
+{
+  "name": "redux",
+  "_cacheHeaders": {
+    "ETag": "W/\"5afd4ace-540f\"",
+    "Last-Modified": "Thu, 17 May 2018 09:26:38 GMT",
+    "Content-Type": "application/javascript"
+  },
+  "_release": "e-tag:W/\"5afd4ac",
+  "main": "index.js",
+  "_source": "https://cdnjs.cloudflare.com/ajax/libs/redux/3.0.5/redux.js",
+  "_target": "*",
+  "_originalSource": "https://cdnjs.cloudflare.com/ajax/libs/redux/3.0.5/redux.js"
+}
